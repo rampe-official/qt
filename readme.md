@@ -1,6 +1,4 @@
-# Contributions
-
-## Qt Contributions
+# Qt Contributions
 
 <table>
   <tr><th>Owner</th><th>Project</th><th>Role</th></tr>
